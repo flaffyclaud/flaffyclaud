@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Aman 👋
 
-<!--
-**flaffyclaud/flaffyclaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Avid Linux enthusiast** with hands-on experience in real-world cybersecurity challenges.  
+Proficient in programming with **C, Java, and Shell Script**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- [TTYDM: A Simple TTY Desktop Manager for Linux](https://github.com/flaffyclaud/TTYDM---A-Simple-TTY-Desktop-Manager-for-Linux)  
+  *A lightweight, efficient desktop manager for your Linux TTY sessions.*
+
+---
+
+## 💡 Skills
+
+- Linux system administration & customization
+- Cybersecurity problem-solving
+- C, Java, Shell scripting
+
+---
+
+## 🎹 Fun Facts
+
+- When I'm not hacking away at code or exploring Linux internals, you'll find me playing the piano.
+- I'm also an auto enthusiast—always keen to discuss cars and engineering!
+
+---
+
+> Always learning, always building.
+
