@@ -23,7 +23,7 @@ Proficient in programming with **C, Java, and Shell Script**.
 ## Fun Facts
 
 - When I'm not hacking away at code or exploring Linux internals, you'll find me playing the piano.
-- I'm also an auto enthusiast—always keen to discuss cars and engineering!
+- I'm also an auto enthusiast.
 
 ---
 
